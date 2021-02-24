@@ -1,5 +1,3 @@
-# Python code to demonstrate naive method 
-# to compute factorial 
 def factorialCount(n):
     fact = 1
   
@@ -9,4 +7,5 @@ def factorialCount(n):
     return fact
 
 print(factorialCount(5))
+
 

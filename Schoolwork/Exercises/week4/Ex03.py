@@ -9,5 +9,5 @@ def vowelCount(wordString):
     
     return vowel_counts
 
-wordString = 'Saippuakauppias'
+wordString = input()
 print(vowelCount(wordString))
